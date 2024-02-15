@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ma3lich</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🔭 I’m currently working on [TxCMS](github.com/ma3lich/txcms)
+- 🔭 I’m currently working on [Nothing](github.com/ma3lich/txcms)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Nothing :)**
 
 - 👨‍💻 All of my projects are available at [ma3lich.fr](ma3lich.fr)
 
-- 💬 Ask me about **CSS, HTML, JS**
+- 💬 Ask me about **CSS, HTML, JS, Node JS, Php, Python, C#, C++, Systems & networks....**
 
 - 📫 How to reach me **talaighiltoufik@outlook.fr**
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ma3lich</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h1 align="center">Hi 👋, Je suis Ma3lich (Tala Ighil Toufik)</h1>
+<h3 align="center">Un développeur fullstack et un administrateur système et réseau passionné</h3>
 
 - 🌱 J'apprends actuellement **Rien :)**
 

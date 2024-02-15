@@ -3,7 +3,7 @@
 
 - 🌱 J'apprends actuellement **Rien :)**
 
-- 👨‍💻 Tous mes projets sont disponible sur [ma3lich.fr](ma3lich.fr)
+- 👨‍💻 Tous mes projets sont disponible sur [ma3lich.fr](https://github.com/ma3lich)
 
 - 💬 Demande moi à propos de **CSS, HTML, JS, Node JS, Php, Python, C#, C++, Systems & networks....**
 
